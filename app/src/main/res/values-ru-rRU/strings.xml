@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Фильмы</string>
+    <string name="now_playing">Смотрят сейчас</string>
+    <string name="upcoming">Скоро выйдут</string>
+    <string name="popular">Популярные</string>
+    <string name="top_rated">Лучшие</string>
+    <string name="release_date">Дата выхода:</string>
+    <string name="revenue">Сборы:</string>
+    <string name="budget">Бюджет:</string>
+    <string name="error">Ошибка</string>
+    <string name="reload">Перезагрузить</string>
+    <string name="allow_adult_content">Показать контент 18+</string>
+    <string name="main_title_history">История</string>
+    <string name="clear_history">Очистить историю</string>
+    <string name="note_text">Заметка</string>
+    <string name="edit_note">Редактировать заметку</string>
+</resources>
